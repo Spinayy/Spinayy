@@ -7,3 +7,5 @@
 - 😄 Pronouns: nick/gur
 - ⚡ Fun fact: I like getting krum all over my sistah
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spinayy)](https://github.com/anuraghazra/github-readme-stats)

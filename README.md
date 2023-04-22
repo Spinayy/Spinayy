@@ -28,17 +28,19 @@ I am a new developer currently learning some new stuff and building my version o
 #
 
 <details>
+<summary><h3>🔥 My Projects</h3></summary>
+
+1. [XAuth](https://github.com/XAuth-ru) - A new authentication service 
+2. [ProjectMedusa](https://discord.gg/unban) - A hardware program that removes penalties from games
+
+</details>
+
+<details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a 12yo student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself python with a dream to build my own program, but that soon got overshadowed by my desire to excel in C#. A desire that landed me making a good and successful application. However, I had another desire, to learn CPP. I eventually learned beginner CPP, and that has been my focus ever since. Now I am working on a new project that should work out just fine, but again, you need to have a backup plan. It's easier to use something ready than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. 
  
 https://xauth.ru
 https://youtube.com/Spinayy
  
-<details>
- <summary><h3>🔥 My Projects</h3></summary>
 
-1. [XAuth](https://github.com/XAuth-ru) - A new authentication service 
-2. [ProjectMedusa](https://discord.gg/unban) - A hardware program that removes penalties from games
-
-</details>
 

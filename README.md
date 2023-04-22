@@ -33,3 +33,12 @@ I am a new developer currently learning some new stuff and building my version o
  
 https://xauth.ru
 https://youtube.com/Spinayy
+ 
+<details>
+ <summary><h3>🔥 My Projects</h3></summary>
+
+1. [XAuth](https://github.com/XAuth-ru) - A new authentication service 
+2. [ProjectMedusa](https://discord.gg/unban) - A hardware program that removes penalties from games
+
+</details>
+

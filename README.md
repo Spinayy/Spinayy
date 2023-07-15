@@ -30,7 +30,7 @@ I am a new developer currently learning some new stuff and building my version o
 <details>
 <summary><h3>🔥 My Projects</h3></summary>
 
-1. [XAuth](https://github.com/XAuth-ru) - A new authentication service 
+1. [XAuth](https://github.com/xauthorg) - A new authentication service 
 2. [ProjectMedusa](https://discord.gg/unban) - A hardware program that removes penalties from games
 
 </details>
